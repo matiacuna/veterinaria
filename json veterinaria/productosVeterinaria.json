@@ -1,0 +1,43 @@
+[
+{
+    "name": "Equilibrio gatos",
+    "description": "Ración para gatos adultos de interior. Alimento balanceado.",
+    "cantidadDisponible":"20" ,
+    "cost": "1300",
+    "image": "img/prod1.jpg"
+        
+},
+{
+    "name": "Pedigree",
+    "description": "Ración para perros cachorros. Alimento balanceado.",
+    "cantidadDisponible":"15" ,
+    "cost": "1800",
+    "image": "img/prod2.jpg"
+        
+},
+{
+    "name": "Cat Chow",
+    "description": "Ración para gatitos. Alimento balanceado.",
+    "cantidadDisponible":"35" ,
+    "cost": "500",
+    "image": "img/prod3.jpg"
+        
+},
+{
+    "name": "Dog Chow",
+    "description": "Comida de perros para razas medianas y grandes.",
+    "cantidadDisponible": 15,
+    "cost": "1030",
+    "image": "img/prod4.jpg"
+        
+},
+{
+    "name": "Vittamax",
+    "description": "Alimento premium, sabroso, nutritivo y desarrollado para perros adultos de todas las razas y tamaños",
+    "cantidadDisponible": 28,
+    "cost": "1890",
+    "image": "img/prod5.jpg"
+        
+}
+
+]
